@@ -46,13 +46,16 @@ a:hover {
 
 @media only screen and (min-width: 38em) {
 
-.title {
+  h1 {
+    text-align: left;
+  }
 
 }
 
-.nav{
+@media only screen and (min-width: 60em) {
 
-}
-
+  h1 {
+    text-align: left;
+  }
 
 }
