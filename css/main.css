@@ -33,6 +33,7 @@ li {
 a {
   text-decoration: none;
   color: #0074d9;
+  padding: .5em;
 }
 
 a:hover {
